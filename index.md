@@ -1,4 +1,6 @@
-🔗 [GitHub](https://github.com/vivekvjyn) | [LinkedIn](https://www.linkedin.com/in/vivek-vijayan12/)
+[GitHub](https://github.com/vivekvjyn)
+
+[LinkedIn](https://www.linkedin.com/in/vivek-vijayan12/)
 
 ---
 
@@ -16,7 +18,7 @@
 
 2020 – 2024
 
-**Higher Secondary Education in Computer Science**
+[**Higher Secondary Education in Computer Science**](https://www.sbhss.in/2023/07/science-with-computer-science.html)
 
 *St. Berchman’s HSS Changanacherry*
 
