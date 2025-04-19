@@ -97,18 +97,6 @@
 
 ---
 
-## 🛠️ Skills
-
-**Languages & Tools:**
-
-> C, C++, Python, JavaScript, Rust
-
-**Software:**
-
-> FL Studio, Ableton Live, Cubase, Photoshop, Premiere Pro, After Effects
-
----
-
 ## 🚀 Projects
 
 **[Coconut Audio](https://github.com/Coconut-audio)**
