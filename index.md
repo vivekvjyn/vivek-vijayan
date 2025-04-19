@@ -1,6 +1,3 @@
-# Vivek Vijayan
-✉️ [vivekvijayan6282@gmail.com](mailto:vivekvijayan6282@gmail.com)
-
 🔗 [GitHub](https://github.com/vivekvjyn) | [LinkedIn](https://www.linkedin.com/in/vivek-vijayan12/)
 
 ---
