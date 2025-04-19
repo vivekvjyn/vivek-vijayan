@@ -83,8 +83,6 @@
 
 - Edited podcasts for Cecify Radio, ARC CEC’s podcast series on Spotify
 
----
-
 [**National Service Scheme (NSS)**](https://nss.gov.in/)
 
 *Volunteer*
@@ -96,6 +94,8 @@
 *Cadet*
 
 - Recieved training as a cadet
+
+---
 
 ## 🛠️ Skills
 
