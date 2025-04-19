@@ -1,3 +1,5 @@
+![pfp](pfp.jpg)
+
 [GitHub](https://github.com/vivekvjyn)
 [LinkedIn](https://www.linkedin.com/in/vivek-vijayan12/)
 
