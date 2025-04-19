@@ -98,7 +98,7 @@
 
 ## Projects
 
-**[Coconut Audio](https://github.com/Coconut-audio)**
+[**Coconut Audio**](https://github.com/Coconut-audio)
 
 Audio plugin manufacturing company
 
