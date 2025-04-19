@@ -3,7 +3,7 @@
 
 ---
 
-## 🎓 Education
+## Education
 
 [**Master in Sound and Music Computing**](https://www.upf.edu/web/smc)
 
@@ -25,7 +25,7 @@
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
 **Research Assistant**
 
@@ -48,7 +48,7 @@
 
 ---
 
-## 🤝 Volunteering Experience
+## Volunteering Experience
 
 [**IHRD Tharang 2023**](https://tharang.ihrd.ac.in/)
 
@@ -96,7 +96,7 @@
 
 ---
 
-## 🚀 Projects
+## Projects
 
 **[Coconut Audio](https://github.com/Coconut-audio)**
 
