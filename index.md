@@ -2,8 +2,6 @@
 
 ---
 
-## <center>Contact</center>
-
 <center>vivek.vijayan01@estudiant.upf.edu</center>
 
 [<center>Github</center>](https://github.com/vivekvjyn)
