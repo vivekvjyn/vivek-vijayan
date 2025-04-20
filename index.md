@@ -1,12 +1,12 @@
-[**Education**](#ducation) | [**Work Experience**](#work-experience) | [**Volunteering**](#volunteering) | [**Projects**](#projects) | [**Achievements**](#achievements)
-
----
-
 # <center>Vivek Vijayan</center>
 
 ---
 
-## Contacts
+[**Contact**](#contact) | [**Education**](#education) | [**Work Experience**](#work-experience) | [**Volunteering**](#volunteering) | [**Projects**](#projects) | [**Achievements**](#achievements)
+
+---
+
+## Contact
 
 vivek.vijayan01@estudiant.upf.edu
 
