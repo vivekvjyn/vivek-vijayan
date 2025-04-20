@@ -2,20 +2,15 @@
 
 ---
 
-[**Contact**](#contact) | [**Education**](#education) | [**Experience**](#experience) | [**Volunteering**](#volunteering) | [**Projects**](#projects) | [**Achievements**](#achievements)
-
----
-
-## Contact
+## <center>Contact</center>
 
 vivek.vijayan01@estudiant.upf.edu
 
-[GitHub](https://github.com/vivekvjyn)
-[LinkedIn](https://www.linkedin.com/in/vivek-vijayan12/)
+[GitHub](https://github.com/vivekvjyn) | [LinkedIn](https://www.linkedin.com/in/vivek-vijayan12/)
 
 ---
 
-## Education
+## <center>Education</center>
 
 [**Master in Sound and Music Computing**](https://www.upf.edu/web/smc)
 
@@ -37,7 +32,7 @@ vivek.vijayan01@estudiant.upf.edu
 
 ---
 
-## Experience
+## <center>Experience</center>
 
 **Research Assistant**
 
@@ -62,7 +57,7 @@ vivek.vijayan01@estudiant.upf.edu
 
 ---
 
-## Volunteering
+## <center>Volunteering</center>
 
 [**IHRD Tharang 2023**](https://tharang.ihrd.ac.in/)
 
@@ -110,7 +105,7 @@ vivek.vijayan01@estudiant.upf.edu
 
 ---
 
-## Projects
+## <center>Projects</center>
 
 [**Coconut Audio**](https://github.com/coconut-audio)
 
@@ -118,7 +113,7 @@ Audio plugin manufacturing company
 
 - Releases and maintains free audio plugins
 
-## Achievements
+## <center>Achievements</center>
 
 [**SMIFA for shorts**](https://www.facebook.com/SMIFA.official)
 
