@@ -106,7 +106,7 @@
 
 Audio plugin manufacturing company
 
-- Releasing and maintaining free audio plugins
+- Releases and maintains free audio plugins
 
 ## Achievements
 
