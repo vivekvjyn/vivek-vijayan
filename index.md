@@ -6,7 +6,8 @@
 
 vivek.vijayan01@estudiant.upf.edu
 
-[GitHub](https://github.com/vivekvjyn)
+[<center>Github</center>](https://github.com/vivekvjyn)
+
 [LinkedIn](https://www.linkedin.com/in/vivek-vijayan12/)
 
 ---
