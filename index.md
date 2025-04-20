@@ -1,6 +1,3 @@
-
-![<center>Vivek Vijayan</center>](img/pfp.jpg)
-
 # <center>Vivek Vijayan</center>
 
 ---
