@@ -1,4 +1,4 @@
-[Education](#ducation) | [Work Experience](#work-experience) | [Volunteering Experience](#volunteering-experience) | [Projects](#projects) | [Achievements](#achievements)
+[**Education**](#ducation) | [**Work Experience**](#work-experience) | [**Volunteering Experience**](#volunteering-experience) | [**Projects**](#projects) | [**Achievements**](#achievements)
 
 ---
 
