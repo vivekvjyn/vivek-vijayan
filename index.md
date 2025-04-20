@@ -2,7 +2,7 @@
 
 ---
 
-[**Contact**](#contact) | [**Education**](#education) | [**Work Experience**](#work-experience) | [**Volunteering**](#volunteering) | [**Projects**](#projects) | [**Achievements**](#achievements)
+[**Contact**](#contact) | [**Education**](#education) | [**Experience**](#experience) | [**Volunteering**](#volunteering) | [**Projects**](#projects) | [**Achievements**](#achievements)
 
 ---
 
@@ -37,7 +37,7 @@ vivek.vijayan01@estudiant.upf.edu
 
 ---
 
-## Work Experience
+## Experience
 
 **Research Assistant**
 
