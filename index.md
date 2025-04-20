@@ -1,6 +1,6 @@
 # Vivek Vijayan
 
-[Education](#Education) | [Work Experience](#Work Experience)
+[Education](#Education) | [Work Experience](#WorkExperience)
 
 [GitHub](https://github.com/vivekvjyn)
 [LinkedIn](https://www.linkedin.com/in/vivek-vijayan12/)
