@@ -4,7 +4,7 @@
 
 ## <center>Contact</center>
 
-> vivek.vijayan01@estudiant.upf.edu
+vivek.vijayan01@estudiant.upf.edu
 
 [GitHub](https://github.com/vivekvjyn)
 [LinkedIn](https://www.linkedin.com/in/vivek-vijayan12/)
