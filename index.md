@@ -1,6 +1,14 @@
+[Education](#ducation) | [Work Experience](#work-experience) | [Volunteering Experience](#volunteering-experience) | [Projects](#projects) | [Achievements](#achievements)
+
+---
+
 # Vivek Vijayan
 
-[Education](#ducation) | [Work Experience](#work-experience) | [Volunteering Experience](#volunteering-experience) | [Projects](#projects) | [Achievements](#achievements)
+---
+
+## Contacts
+
+vivek.vijayan01@estudiant.upf.edu
 
 [GitHub](https://github.com/vivekvjyn)
 [LinkedIn](https://www.linkedin.com/in/vivek-vijayan12/)
