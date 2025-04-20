@@ -90,7 +90,7 @@
 
 *Volunteer*
 
-- Engaged in social serviced activities
+- Engaged in social service activities
 
 [**National Cadet Corps (NCC)**](https://indiancc.mygov.in/)
 
