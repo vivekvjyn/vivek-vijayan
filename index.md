@@ -33,14 +33,16 @@
 
 [*Music Technology Group*](https://www.upf.edu/web/mtg)
 
-2025 – Present
+2025 – ...
 
 - Improving and extending the compIAM repository of datasets, tools, and models for the computational analysis of Carnatic and Hindustani music.
 - Contributed to mirdata, a dataset loader for widely used MIR datasets.
 
-**Freelance Music Producer**
+**Music Producer**
 
-2019 – Present
+[*Freelance*](https://www.youtube.com/playlist?list=PLcoyEawxwo3pYLek-4dW2vnWtg_CNpXwu)
+
+2019 – ...
 
 - Additional programming for feature films
 - Composed original scores for short films (Best Music Director, SMIFA Shorts 2019 – Malayalam Category)
@@ -100,8 +102,16 @@
 
 ## Projects
 
-[**Coconut Audio**](https://github.com/Coconut-audio)
+[**Coconut Audio**](https://github.com/coconut-audio)
 
 Audio plugin manufacturing company
+
+- Releasing and maintaining free audio plugins
+
+## Achievements
+
+[**SMIFA for shorts**](https://www.facebook.com/SMIFA.official)
+
+*Best Music Director Malayalam Catagory 2019*
 
 ---
