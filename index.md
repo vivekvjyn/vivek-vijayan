@@ -2,9 +2,7 @@
 
 ---
 
-<center>
-# Vivek Vijayan
-</center>
+# <center>Vivek Vijayan</center>
 
 ---
 
