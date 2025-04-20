@@ -1,4 +1,4 @@
-[**Education**](#ducation) | [**Work Experience**](#work-experience) | [**Volunteering Experience**](#volunteering-experience) | [**Projects**](#projects) | [**Achievements**](#achievements)
+[**Education**](#ducation) | [**Work Experience**](#work-experience) | [**Volunteering**](#volunteering) | [**Projects**](#projects) | [**Achievements**](#achievements)
 
 ---
 
@@ -62,7 +62,7 @@ vivek.vijayan01@estudiant.upf.edu
 
 ---
 
-## Volunteering Experience
+## Volunteering
 
 [**IHRD Tharang 2023**](https://tharang.ihrd.ac.in/)
 
