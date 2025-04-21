@@ -113,6 +113,8 @@ Audio plugin manufacturing company
 
 - Releases and maintains free audio plugins
 
+---
+
 ## <center>Achievements</center>
 
 [**SMIFA for shorts**](https://www.facebook.com/SMIFA.official)
