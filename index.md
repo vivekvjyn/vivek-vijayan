@@ -50,7 +50,7 @@
 2019 – ...
 
 - Additional programming for feature films
-- Composed original scores for short films (Best Music Director, SMIFA Shorts 2019 – Malayalam Category)
+- Composed original scores for short films
 - Produced and mixed tracks for various artists
 - Released singles as an independent artist
 - Mixed and produced tracks for college events
