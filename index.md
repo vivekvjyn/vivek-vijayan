@@ -122,3 +122,79 @@ Audio plugin manufacturing company
 *Best Music Director Malayalam Catagory 2019*
 
 ---
+
+## <center>Certifications</center>
+
+[**Deep Learning Specialization**](https://coursera.org/share/18ae61d1b7e1feaedcc65bf6157d3ff6)
+
+*DeepLearning.AI*
+
+[**Natural Language Processing Specialization**](https://coursera.org/share/0e2a93193bf4ebc38c2bc6f3c53bc818)
+
+*DeepLearning.AI*
+
+[**Python for Time Series Analysis**](https://www.udemy.com/certificate/UC-ec346425-d336-47f1-a99e-6efc52fc6e8e/)
+
+*Udemy*
+
+[**Digital Filters - FIR & IIR**](https://www.udemy.com/certificate/UC-97b53558-b36f-4ed2-a5ed-9391fbdcd04b/)
+
+*Udemy*
+
+[**Digital Signal Processing (DSP) From Ground Up™ in C**](https://www.udemy.com/certificate/UC-ec346425-d336-47f1-a99e-6efc52fc6e8e/)
+
+*Udemy*
+
+[**Parallel Programming in Java**](https://coursera.org/share/628db75255521cdcb1bc1f00a256ae3a)
+
+*Rice University*
+
+[**Digital Signal Processing Specialization**](https://coursera.org/share/df7bc0cc0684711945fa427a9f17dcbf)
+
+*EPFL*
+
+[**Generative AI with Large Language Models**](https://coursera.org/share/94c660b10870fa6c09ebb1bf56590265)
+
+*DeepLearning.AI*
+
+[**Generative Adversarial Networks (GANs)**](https://coursera.org/share/b4ae564077963dcec33931b8d26221e2)
+
+*DeepLearning.AI*
+
+[**Fundamentals of Audio and Music Engineering: Part 1 Musical Sound & Electronics**](https://coursera.org/share/10fb79767125be6beef72f4917b838dd)
+
+*University of Rochester*
+
+[**Introduction to Complex Analysis**](https://coursera.org/share/f8fa1580f46a7a5205469b8d82e5c395)
+
+*Wesleyan University*
+
+[**Being a researcher (in Information Science and Technology)**](https://coursera.org/share/c87658cb76983e5bf6da72c01c216957)
+
+*Politecnico di Milano*
+
+[**Machine Learning Specialization**](https://coursera.org/share/d7050f98b3d660e5c9736388e7ad965a)
+
+*DeepLearning.AI*
+
+[**Introduction to Classical Music**](https://coursera.org/share/825baec97ab25d2456c344adad1a7a75)
+
+*Yale University*
+
+[**Intro to Acoustics (Part 1)**](https://coursera.org/share/70ce707bafb10ec2b329bb09ddbc28ae)
+
+*Korea Advanced Institute of Science and Technology*
+
+[**Music as Biology: What We Like to Hear and Why**](https://coursera.org/share/c2516400131bc4f77e0f6fc5edccb074)
+
+*Duke University*
+
+[**Accelerated Computer Science Fundamentals Specialization**](https://coursera.org/share/a46cf650e5dde19df38d805148a0560a)
+
+*University of Illinois Urbana-Champaign*
+
+[**From the Big Bang to Dark Energy**](https://coursera.org/share/1e72fb3deb9dea795907a2c250bd943b)
+
+*The University of Tokyo*
+
+---
