@@ -40,8 +40,8 @@
 
 2025 – ...
 
-- Improving and extending the compIAM repository of datasets, tools, and models for the computational analysis of Carnatic and Hindustani music.
-- Contributed to mirdata, a dataset loader for widely used MIR datasets.
+- Improving and extending the [`compIAM`](https://github.com/MTG/compIAM) repository of datasets, tools, and models for the computational analysis of Carnatic and Hindustani music.
+- Contributed to [`mirdata`](https://github.com/mir-dataset-loaders/mirdata), a dataset loader for widely used MIR datasets.
 
 **Music Producer**
 
@@ -101,7 +101,7 @@
 
 *Cadet*
 
-- Recieved training as a cadet
+- Received training as a cadet in the Army Wing
 
 ---
 
