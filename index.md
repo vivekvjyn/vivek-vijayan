@@ -20,7 +20,7 @@
 
 [**Bachelor of Technology in Computer Science**](https://ceconline.edu/academics/departments/computer-science/)
 
-*College of Engineering Chengannur*
+*Kerala Technological University*
 
 2020 – 2024
 
