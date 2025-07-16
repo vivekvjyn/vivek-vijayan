@@ -115,6 +115,26 @@ Audio plugin manufacturing company
 
 ---
 
+## <center>Works</center>
+
+[**Contrivance**](https://www.youtube.com/watch?v=0JqvaH6eM24)
+
+*Composition, Music Production, Lyrics, Animation*
+
+[**AMOK - The darkest phase**](https://www.youtube.com/watch?v=GZIeB2N_F5o)
+
+*Background Score*
+
+[**Poru**](https://www.youtube.com/watch?v=OuLOdfRPvY8)
+
+*Background Score*
+
+[**Vishu song**](https://www.youtube.com/watch?v=n1kusE82Cxc)
+
+*Mixing, Mastering*
+
+---
+
 ## <center>Achievements</center>
 
 [**SMIFA for shorts**](https://www.facebook.com/SMIFA.official)
