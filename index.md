@@ -41,7 +41,7 @@
 2025 – ...
 
 - Improving and extending the [`compIAM`](https://github.com/MTG/compIAM) repository of datasets, tools, and models for the computational analysis of Carnatic and Hindustani music.
-- Contributed to [`mirdata`](https://github.com/mir-dataset-loaders/mirdata), a dataset loader for widely used MIR datasets.
+- Contributing to [`mirdata`](https://github.com/mir-dataset-loaders/mirdata), a dataset loader for widely used MIR datasets.
 
 **Music Producer**
 
@@ -118,20 +118,61 @@ Audio plugin manufacturing company
 ## <center>Works</center>
 
 [**Contrivance**](https://www.youtube.com/watch?v=0JqvaH6eM24)
+[![Contrivance](https://img.youtube.com/vi/0JqvaH6eM24/0.jpg)](https://www.youtube.com/watch?v=0JqvaH6eM24)
 
 *Composition, Music Production, Lyrics, Animation*
 
 [**AMOK - The darkest phase**](https://www.youtube.com/watch?v=GZIeB2N_F5o)
+[![AMOK - The darkest phase](https://img.youtube.com/vi/GZIeB2N_F5o/0.jpg)](https://www.youtube.com/watch?v=GZIeB2N_F5o)
 
 *Background Score*
 
 [**Poru**](https://www.youtube.com/watch?v=OuLOdfRPvY8)
+[![Poru](https://img.youtube.com/vi/OuLOdfRPvY8/0.jpg)](https://www.youtube.com/watch?v=OuLOdfRPvY8)
 
 *Background Score*
 
 [**Vishu song**](https://www.youtube.com/watch?v=n1kusE82Cxc)
+[![Vishu song](https://img.youtube.com/vi/n1kusE82Cxc/0.jpg)](https://www.youtube.com/watch?v=n1kusE82Cxc)
 
 *Mixing, Mastering*
+
+[**CEC Utsav 22 Team Bhayanaka Short Film Soundtrack**](https://www.youtube.com/watch?v=vRf_wEaB9NQ)
+[![CEC Utsav 22 Team Bhayanaka Short Film Soundtrack](https://img.youtube.com/vi/vRf_wEaB9NQ/0.jpg)](https://www.youtube.com/watch?v=vRf_wEaB9NQ)
+
+*Composition, Music Production*
+
+[**Taramayi**](https://www.youtube.com/watch?v=UkVRJIdwCf0)
+[![Taramayi](https://img.youtube.com/vi/UkVRJIdwCf0/0.jpg)](https://www.youtube.com/watch?v=UkVRJIdwCf0)
+
+*Composition, Music Production, Lyrics*
+
+[**Cricket Song**](https://www.youtube.com/watch?v=hfjHdcSRdzw)
+[![Cricket Song](https://img.youtube.com/vi/hfjHdcSRdzw/0.jpg)](https://www.youtube.com/watch?v=hfjHdcSRdzw)
+
+*Additional Music Production*
+
+[**MAA**](https://www.youtube.com/watch?v=ZR8IGgaM5Rg)
+[![MAA](https://img.youtube.com/vi/ZR8IGgaM5Rg/0.jpg)](https://www.youtube.com/watch?v=ZR8IGgaM5Rg)
+
+*Background Score*
+
+[**ASURAN**](https://www.youtube.com/watch?v=50V7LyKAvbM)
+[![ASURAN](https://img.youtube.com/vi/50V7LyKAvbM/0.jpg)](https://www.youtube.com/watch?v=50V7LyKAvbM)
+
+*Additional Music Production*
+
+[**Arum ariyate**](https://www.youtube.com/watch?v=udRhdcGnp0I)
+[![Arum ariyate](https://img.youtube.com/vi/udRhdcGnp0I/0.jpg)](https://www.youtube.com/watch?v=udRhdcGnp0I)
+
+*Composition, Music Production, Lyrics*
+
+[**Villa No.13**](https://www.youtube.com/watch?v=xGL5xy_YFyw)
+[![Villa No.13](https://img.youtube.com/vi/xGL5xy_YFyw/0.jpg)](https://www.youtube.com/watch?v=xGL5xy_YFyw)
+
+*Background Score*
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2F100088935870881%2Fvideos%2F589698659174514%2F&show_text=false&width=261&t=0" width="261" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
 ---
 
