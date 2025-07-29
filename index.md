@@ -117,62 +117,85 @@ Audio plugin manufacturing company
 
 ## <center>Works</center>
 
-[**Contrivance**](https://www.youtube.com/watch?v=0JqvaH6eM24)
-[![Contrivance](https://img.youtube.com/vi/0JqvaH6eM24/0.jpg)](https://www.youtube.com/watch?v=0JqvaH6eM24)
+### Contrivance
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0JqvaH6eM24?si=X5inerGRk3R4u_5d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 *Composition, Music Production, Lyrics, Animation*
 
-[**AMOK - The darkest phase**](https://www.youtube.com/watch?v=GZIeB2N_F5o)
-[![AMOK - The darkest phase](https://img.youtube.com/vi/GZIeB2N_F5o/0.jpg)](https://www.youtube.com/watch?v=GZIeB2N_F5o)
+### AMOK - The darkest phase
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GZIeB2N_F5o?si=HwqABn7MPUFZL7K8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 *Background Score*
 
-[**Poru**](https://www.youtube.com/watch?v=OuLOdfRPvY8)
-[![Poru](https://img.youtube.com/vi/OuLOdfRPvY8/0.jpg)](https://www.youtube.com/watch?v=OuLOdfRPvY8)
+### Poru
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OuLOdfRPvY8?si=UVIg4BfGAty_hLu0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 *Background Score*
 
-[**Vishu song**](https://www.youtube.com/watch?v=n1kusE82Cxc)
-[![Vishu song](https://img.youtube.com/vi/n1kusE82Cxc/0.jpg)](https://www.youtube.com/watch?v=n1kusE82Cxc)
+### Vishu song
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n1kusE82Cxc?si=oeO5co1B7Wh3uckd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 *Mixing, Mastering*
 
-[**CEC Utsav 22 Team Bhayanaka Short Film Soundtrack**](https://www.youtube.com/watch?v=vRf_wEaB9NQ)
-[![CEC Utsav 22 Team Bhayanaka Short Film Soundtrack](https://img.youtube.com/vi/vRf_wEaB9NQ/0.jpg)](https://www.youtube.com/watch?v=vRf_wEaB9NQ)
+### CEC Utsav 22 Team Bhayanaka Short Film Soundtrack
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vRf_wEaB9NQ?si=4D0FWqwmwqcMeGHt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 *Composition, Music Production*
 
-[**Taramayi**](https://www.youtube.com/watch?v=UkVRJIdwCf0)
-[![Taramayi](https://img.youtube.com/vi/UkVRJIdwCf0/0.jpg)](https://www.youtube.com/watch?v=UkVRJIdwCf0)
+### Taramayi
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UkVRJIdwCf0?si=wpP7l_XnMsURbaDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 *Composition, Music Production, Lyrics*
 
-[**Cricket Song**](https://www.youtube.com/watch?v=hfjHdcSRdzw)
-[![Cricket Song](https://img.youtube.com/vi/hfjHdcSRdzw/0.jpg)](https://www.youtube.com/watch?v=hfjHdcSRdzw)
+### Cricket Song
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hfjHdcSRdzw?si=jydfPH_3Gy99kbY3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 *Additional Music Production*
 
-[**MAA**](https://www.youtube.com/watch?v=ZR8IGgaM5Rg)
-[![MAA](https://img.youtube.com/vi/ZR8IGgaM5Rg/0.jpg)](https://www.youtube.com/watch?v=ZR8IGgaM5Rg)
+### MAA
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZR8IGgaM5Rg?si=z8WpKYNuB22jvjlb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 *Background Score*
 
-[**ASURAN**](https://www.youtube.com/watch?v=50V7LyKAvbM)
-[![ASURAN](https://img.youtube.com/vi/50V7LyKAvbM/0.jpg)](https://www.youtube.com/watch?v=50V7LyKAvbM)
+### ASURAN
+<iframe width="560" height="315" src="https://www.youtube.com/embed/50V7LyKAvbM?si=fcV1bc6vjxWnpm5E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 *Additional Music Production*
 
-[**Arum ariyate**](https://www.youtube.com/watch?v=udRhdcGnp0I)
-[![Arum ariyate](https://img.youtube.com/vi/udRhdcGnp0I/0.jpg)](https://www.youtube.com/watch?v=udRhdcGnp0I)
+### Arum ariyate
+<iframe width="560" height="315" src="https://www.youtube.com/embed/udRhdcGnp0I?si=VPB7McaOVjFNkgbD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 *Composition, Music Production, Lyrics*
 
-[**Villa No.13**](https://www.youtube.com/watch?v=xGL5xy_YFyw)
-[![Villa No.13](https://img.youtube.com/vi/xGL5xy_YFyw/0.jpg)](https://www.youtube.com/watch?v=xGL5xy_YFyw)
+### Villa No.13
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xGL5xy_YFyw?si=w9EXflICgP0WmZTF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 *Background Score*
 
+### IHRD Tharang Project Malabaricus Promo
 <iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2F100088935870881%2Fvideos%2F589698659174514%2F&show_text=false&width=261&t=0" width="261" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+*Animation, Editing, Music Production, Sound Design*
+
+### IHRD Tharang Project Promo
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F100088935870881%2Fvideos%2F742176973790539%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+*Animation, Editing, Music Production, Sound Design*
+
+### IHRD Tharang Gaming Zone Promo
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F100088935870881%2Fvideos%2F1331038507730558%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+*Animation, Editing, Sound design*
+
+### IEEE Student Branch CEC 25th Anniversary
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FIEEECEC%2Fvideos%2F1073537050187493%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+*Editing, Sound design*
+
+### IEEE Nirmana
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FIEEECEC%2Fvideos%2F961800265210215%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+*Animation, Editing, Sound design*
 
 ---
 
