@@ -205,6 +205,10 @@ Audio plugin manufacturing company
 
 *Best Music Director Malayalam Catagory 2019*
 
+[**All India Council for Technical Education**](http://www.aicte-india.org)
+
+*Tution Fee Waiver 2020*
+
 ---
 
 ## <center>Certifications</center>
