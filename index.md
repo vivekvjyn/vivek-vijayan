@@ -209,17 +209,22 @@ There will be blood is a drum bleed reduction plugin.
 ### IHRD Tharang Gaming Zone Promo
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F100088935870881%2Fvideos%2F1331038507730558%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
-*Animation, Editing, Sound design*
+*Animation, Editing, Sound Design*
 
 ### IEEE Student Branch CEC 25th Anniversary
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FIEEECEC%2Fvideos%2F1073537050187493%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
-*Editing, Sound design*
+*Editing, Sound Design*
 
 ### IEEE Nirmana
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FIEEECEC%2Fvideos%2F961800265210215%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
-*Animation, Editing, Sound design*
+*Animation, Editing, Sound Design*
+
+### IEEE Emergence 2.0
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FIEEECEC%2Fvideos%2F409118064751705%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+*Animation, Editing, Sound Design*
 
 ### Moonlight - Steve Augustine
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/55eCtfGn8Qnaztsqb9pM5O?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
