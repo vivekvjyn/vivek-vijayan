@@ -113,8 +113,29 @@
 
 Audio plugin manufacturing company
 
-- Sound of Music
-[![Sound of Music](https://github.com/coconut-audio/sound-of-music/blob/main/res/Screenshot.png)](https://github.com/coconut-audio/sound-of-music)
+- **Sound of Music**
+
+[![Sound of Music](https://raw.githubusercontent.com/coconut-audio/sound-of-music/main/res/Screenshot.png)](https://github.com/coconut-audio/sound-of-music)
+
+Sound of Music is a multiband bit crusher plugin with three bands, allowing detailed audio control and manipulation.
+
+- **Pulp Fiction**
+
+[![Pulp Fiction](https://raw.githubusercontent.com/coconut-audio/pulp-fiction/main/res/Screenshot.png)](https://github.com/coconut-audio/pulp-fiction)
+
+Pulp Fiction is a multi-FX rack plugin with four slots, allowing users to choose audio effects for each slot from a drop-down menu.
+
+- **Aether**
+
+[![Aether](https://raw.githubusercontent.com/coconut-audio/aether/main/Screenshot%202024-12-26%20143435.png)](https://github.com/coconut-audio/aether)
+
+Aether is not your typical panning plugin; it allows you to control the left and right channels independently.
+
+- **There will be blood**
+
+[![There will be blood](https://raw.githubusercontent.com/coconut-audio/there-will-be-blood/main/Screenshot.png)](https://github.com/coconut-audio/there-will-be-blood)
+
+There will be blood is a drum bleed reduction plugin.
 
 ---
 
