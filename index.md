@@ -8,6 +8,8 @@
 
 [<center>LinkedIn</center>](https://www.linkedin.com/in/vivek-vijayan12/)
 
+[<center>Spotify</center>](https://open.spotify.com/artist/4CMh3BOYiKxHqJ8hUXcDiB)
+
 ---
 
 ## <center>Education</center>
@@ -111,7 +113,8 @@
 
 Audio plugin manufacturing company
 
-- Releases and maintains free audio plugins
+- Sound of Music
+[![Sound of Music](https://github.com/coconut-audio/sound-of-music/blob/main/res/Screenshot.png)](https://github.com/coconut-audio/sound-of-music)
 
 ---
 
@@ -196,6 +199,11 @@ Audio plugin manufacturing company
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FIEEECEC%2Fvideos%2F961800265210215%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 *Animation, Editing, Sound design*
+
+### Moonlight - Steve Augustine
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/55eCtfGn8Qnaztsqb9pM5O?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+*Music Production*
 
 ---
 
